@@ -1,5 +1,5 @@
 import java.util.*;
-public class Rduplicates
+public class Rduplicates    //First class
 {
     public static int modifyArray(int[] a)
     {	
